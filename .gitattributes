@@ -1,1 +1,2 @@
 *.s linguist-language=Assembly
+ca65-primer/doc/* linguist-documentation
